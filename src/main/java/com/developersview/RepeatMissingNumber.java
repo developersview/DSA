@@ -51,6 +51,17 @@ public class RepeatMissingNumber {
 
     public static void main(String[] args) {
         int[] arr = {1, 2, 3, 4, 5, 6, 6, 9, 10, 11, 13, 7, 8};
+
+        // get the start time
+        long start = System.currentTimeMillis();
+        
         System.out.println(Arrays.toString(repeatedNumber(arr)));
+        // get the end time
+        long end = System.currentTimeMillis();
+
+        // execution time
+        long execution = end - start;
+        System.out.println("Execution time: " + execution + " ms");
+
     }
 }
