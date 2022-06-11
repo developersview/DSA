@@ -5,3 +5,4 @@
 >4. Check if the arrays contains duplicate 
 >5. Chocolate Distribution Problem
 >6. Buy and Sell Stock. Find the Profit
+>7. Repeat and Missing Number of an Array
