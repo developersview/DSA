@@ -54,7 +54,7 @@ public class RepeatMissingNumber {
 
         // get the start time
         long start = System.currentTimeMillis();
-        
+
         System.out.println(Arrays.toString(repeatedNumber(arr)));
         // get the end time
         long end = System.currentTimeMillis();
