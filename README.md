@@ -7,6 +7,7 @@
 - Buy and Sell Stock. Find the Profit
 - Repeat and Missing Number of an Array
 - Kth largest element of an array
+- Trapping Rain Water
 
 ---
 ### DSA Sheet Link:
